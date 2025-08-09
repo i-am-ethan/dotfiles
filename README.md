@@ -12,4 +12,21 @@ ln -s ~/dotfiles/.zshrc ~/.zshrc
 ls -l ~/.zshrc
 ```
 
+## tools
+- Google Chrome
+- Rectangle
+- Iterm2
+- homebrew
+	- tmux
+- lazyvim
+
+## Useful keymaps
+
+```
+# -----------
+# tmux
+# -----------
+Ctrl+b%: split window
+```
+
 
