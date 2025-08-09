@@ -20,6 +20,10 @@ ls -l ~/.zshrc
 	- tmux
     - neovim
 - lazyvim
+- volta 
+  - node
+  - npm
+  - npx
 
 ## ⌨️Useful commands
 
