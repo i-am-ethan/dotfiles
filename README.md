@@ -18,6 +18,7 @@ ls -l ~/.zshrc
 - Iterm2
 - homebrew
 	- tmux
+    - neovim
 - lazyvim
 
 ## ⌨️Useful commands
