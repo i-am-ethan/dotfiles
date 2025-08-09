@@ -12,7 +12,7 @@ ln -s ~/dotfiles/.zshrc ~/.zshrc
 ls -l ~/.zshrc
 ```
 
-## tools
+## 🪚tools
 - Google Chrome
 - Rectangle
 - Iterm2
@@ -20,7 +20,7 @@ ls -l ~/.zshrc
 	- tmux
 - lazyvim
 
-## Useful keymaps
+## ⌨️Useful keymaps
 
 ```
 # -----------
