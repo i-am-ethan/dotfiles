@@ -20,12 +20,16 @@ ls -l ~/.zshrc
 	- tmux
 - lazyvim
 
-## ⌨️Useful keymaps
+## ⌨️Useful commands
 
 ```
 # -----------
 # tmux
 # -----------
+
+# Reloading the configration
+tmux source-file ~/.tmux.conf
+
 Ctrl+b%: split window
 ```
 
