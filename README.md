@@ -24,6 +24,7 @@ ls -l ~/.zshrc
   - node
   - npm
   - npx
+- Nerd font
 
 ## ⌨️Useful commands
 
@@ -38,4 +39,6 @@ tmux source-file ~/.tmux.conf
 Ctrl+b%: split window
 ```
 
-
+## Nerd font
+Hack Nerd Font from here
+https://www.nerdfonts.com/font-downloads
