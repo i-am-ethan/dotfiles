@@ -39,6 +39,12 @@ ls -l ~/.zshrc
 tmux source-file ~/.tmux.conf
 
 Ctrl+b%: split window
+
+# -----------
+# lazyvim
+# -----------
+<space>ft: open terminal in bottom
+
 ```
 
 ## Nerd font
