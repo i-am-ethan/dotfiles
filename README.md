@@ -25,6 +25,8 @@ ls -l ~/.zshrc
   - npm
   - npx
 - Nerd font
+- Claude Code
+- theme for zsh:powerlevel10k
 
 ## ⌨️Useful commands
 
@@ -42,3 +44,7 @@ Ctrl+b%: split window
 ## Nerd font
 Hack Nerd Font from here
 https://www.nerdfonts.com/font-downloads
+
+## AI 
+Claude Code
+https://www.anthropic.com/claude-code
