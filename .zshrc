@@ -11,7 +11,15 @@ fi
 
 # 🚄 alias
 alias vim='nvim'
+alias c='clear'
+alias h='history'
 
+
+# 😺 alias git
+alias gs='git status'
+alias gb='git branch'
+alias ga='git add'
+alias gm='git commit -m'
 
 
 
