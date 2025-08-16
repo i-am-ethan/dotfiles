@@ -27,6 +27,7 @@ ls -l ~/.zshrc
 - Nerd font
 - Claude Code
 - theme for zsh:powerlevel10k
+- go
 
 ## ⌨️Useful commands
 
